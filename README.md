@@ -4,3 +4,7 @@
 Zomato is a food ordering app.
 
 In this project, I performed an RFM (Recency, Frequency, Monetary) analysis on the Zomato app's customer data to better understand user behavior and segmentation. By calculating RFM scores, I categorized users into distinct segments based on how recently they ordered, their order frequency, and total spent. This segmentation enabled us to identify high-value customers, dormant users, and those with growth potential, providing actionable insights for targeted marketing strategies. The analysis not only highlighted customer lifetime value but also paved the way for personalized retention efforts and marketing strategies to maximize engagement and revenue.
+
+Please see the dashboard linked above to intera
+
+![Power BI Project](https://github.com/user-attachments/assets/8729fe0b-98f7-40a0-90e5-e47bdd33d51b)
