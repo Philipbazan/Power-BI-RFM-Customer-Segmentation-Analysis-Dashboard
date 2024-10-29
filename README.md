@@ -15,6 +15,20 @@ This then allowed me to create segments based on these scores using DAX formulas
 For example, Best customers are customers which exhibit the highest (4,5) or Top 60%-100% when it comes to Monetary(M) value of thier combined purchases, Frequency (F) of thier purchases, as well as being very Recent (R) purchasers
 Best customers were segments like 555 and 544
 
+The categories I created were:
+
+        "Loyal",
+        "Potential Loyalist",
+        "New Customers",
+        "Promising",
+        "Need Attention",
+        "About To Sleep",
+        "At Risk",
+        "Cannot Lose Them",
+        "Hibernating customers",
+        "Lost customers",
+        "Other"
+
 This Segmentation allowed me to perform various analyses contrasting each segment which represented distinct and unique customer behavior, allowing for deep insight.
 
 Please see the dashboard linked at the begginning of the introduction to interact with the dashboard.
